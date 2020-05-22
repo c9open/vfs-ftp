@@ -5,7 +5,7 @@
     "version": "0.1.5",
     "repository": {
         "type": "git",
-        "url": "git://github.com/c9/vfs-ftp.git"
+        "url": "git://github.com/c9open/vfs-ftp.git"
     },
     "main": "lib/ftp.js",
     "dependencies": {
